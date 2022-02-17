@@ -1,0 +1,20 @@
+{
+  "name": "elastic_balancing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "commander": "^8.3.0",
+    "lodash": "^4.17.21",
+    "request": "^2.88.2",
+    "require-from-url": "^3.1.3",
+    "semver": "^7.3.5",
+    "simple-eta": "^3.0.2"
+  }
+}
